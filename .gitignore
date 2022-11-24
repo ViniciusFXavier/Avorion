@@ -1,0 +1,16 @@
+bin
+Documentation
+licenses
+data/fonts
+data/meshes
+data/music
+data/plans
+data/sfx
+data/shaders
+data/textures
+data/localization
+data/release_notes
+data/styles
+*.db
+*.bat
+*.txt
